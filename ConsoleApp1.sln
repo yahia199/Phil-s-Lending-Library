@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilsLendingLibrary", "ConsoleApp1\PhilsLendingLibrary.csproj", "{88952C26-10AE-4A4D-8287-19D4FDCC249D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testcollection", "Testcollection\Testcollection.csproj", "{05DA33EB-72AD-42B1-9DBC-225B957A46BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88952C26-10AE-4A4D-8287-19D4FDCC249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88952C26-10AE-4A4D-8287-19D4FDCC249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88952C26-10AE-4A4D-8287-19D4FDCC249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88952C26-10AE-4A4D-8287-19D4FDCC249D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DA33EB-72AD-42B1-9DBC-225B957A46BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DA33EB-72AD-42B1-9DBC-225B957A46BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DA33EB-72AD-42B1-9DBC-225B957A46BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DA33EB-72AD-42B1-9DBC-225B957A46BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D131A8E8-2056-426A-A872-B4CA62400956}
+	EndGlobalSection
+EndGlobal
