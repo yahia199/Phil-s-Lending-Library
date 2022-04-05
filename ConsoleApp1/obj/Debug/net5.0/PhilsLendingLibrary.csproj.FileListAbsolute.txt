@@ -1,0 +1,16 @@
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.exe
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.deps.json
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.runtimeconfig.json
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.runtimeconfig.dev.json
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.dll
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\PhilsLendingLibrary.dll
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\PhilsLendingLibrary.pdb
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.csproj.AssemblyReference.cache
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.AssemblyInfoInputs.cache
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.AssemblyInfo.cs
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.dll
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\PhilsLendingLibrary.dll
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.pdb
+C:\Users\D-C\Collections\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\PhilsLendingLibrary.genruntimeconfig.cache
